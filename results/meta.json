@@ -1,0 +1,11 @@
+{
+  "seed": 20261118,
+  "n_per_level": 40,
+  "images": 1680,
+  "python": "3.14.7",
+  "tesseract": "tesseract 5.5.3",
+  "font": "/usr/share/fonts/liberation/LiberationMono-Regular.ttf",
+  "font_sha256": "321ef66a5cc5310dcf76579cd2fa8d82a8a43248844bf094b29303bb80cb4570",
+  "platform": "Linux-7.1.7-273-tkg-bore-x86_64-with-glibc2.44",
+  "read_rates_sha256": "917078ecd2d6970a1654b36511e7abcc9b9dfe6d72314e838300d4d09c19e57f"
+}

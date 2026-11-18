@@ -1,0 +1,9 @@
+field,policy,images,correct,wrong,rejected
+ean,symbol only,1680,1040,0,640
+ean,+ OCR (preprocessed),1680,1423,0,257
+ean,+ OCR (raw),1680,1482,0,198
+ean,+ checksum repair,1680,1492,12,176
+iban,symbol only,1680,1338,0,342
+iban,+ OCR (preprocessed),1680,1384,0,296
+iban,+ OCR (raw),1680,1397,1,282
+iban,+ checksum repair,1680,1400,6,274
