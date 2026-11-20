@@ -103,6 +103,14 @@ python3 -m venv .venv
 .venv/bin/python analysis/figures.py
 ```
 
+The article's smaller examples live in `examples/`:
+
+```sh
+.venv/bin/python examples/repair_demo.py         # erasure vs unknown error
+.venv/bin/python examples/collision.py           # the mod-97 collision
+.venv/bin/python examples/cover_mosaic.py out.webp  # cover image, same seeds
+```
+
 ---
 
 # Testing
